@@ -70,7 +70,6 @@ module.exports = {
                     .addFields(
                         { name: 'ℹ️ `avatar`', value: "Gets a member's avatar" },
                         { name: 'ℹ️ `whois`', value: "All the information about a member" },
-                        { name: 'ℹ️ `server-info`', value: "Gets info about this server" },
                         { name: 'ℹ️ `roleinfo`', value: "Gets info about a role" },
                         { name: 'ℹ️ `urban`', value: "Search up a word on the urban dictionary" },
                         { name: 'ℹ️ `youtube`', value: "Search for a video on youtube" },
